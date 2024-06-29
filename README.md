@@ -28,5 +28,4 @@ positive class (frauds) accounts for only 0.172% of all
 transactions.
 
 The dataset is as follows:
-*https://drive.google.com/file/d/1u_9Zr5cEZYSCn-YhG4Ym
-rct6oHcNKTNC/view?usp=sharing*
+*https://drive.google.com/file/d/1u_9Zr5cEZYSCn-YhG4Ymrct6oHcNKTNC/view?usp=sharing*
