@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit Card Fraud Detection
 
 ## Background
 Credit card fraud is a significant issue faced by financial
